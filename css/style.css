@@ -54,6 +54,23 @@ a {
   text-align: center;
 }
 
+h2 {
+  margin-left: 15px;
+}
+
+h3 {
+  margin-left: 15px;
+  text-decoration: underline;
+}
+
+h5 {
+  margin-left: 20px
+}
+
+p {
+  margin-left: 25px
+}
+
 h1{
   color: black;
 }
